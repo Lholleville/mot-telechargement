@@ -16,7 +16,9 @@ Pour ouvrir les documents Word avec Mot d'un double clic : clic droit sur un fic
 
 ## Mettre à jour
 
-Télécharger de nouveau avec le lien ci-dessus et lancer l'installateur : il remplace l'ancienne version. Réglages et documents sont gardés. Les versions précédentes sont dans les [releases](https://github.com/Lholleville/mot-telechargement/releases).
+Mot annonce lui-même les nouvelles versions : une pastille bleue « Mise à jour disponible » apparaît en bas à droite de sa fenêtre. Un clic télécharge la mise à jour, propose d'enregistrer les documents, puis installe et relance Mot. Réglages et documents sont gardés.
+
+On peut aussi télécharger de nouveau avec le lien ci-dessus et lancer l'installateur. Les versions installées avant la 2026.11.5.2 ne cherchent pas les mises à jour : installer une fois la dernière avec le lien. Les versions précédentes sont dans les [releases](https://github.com/Lholleville/mot-telechargement/releases).
 
 ## Désinstaller
 
